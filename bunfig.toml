@@ -1,0 +1,14 @@
+[install]
+# Prefer offline mode for faster installs
+prefer-offline = true
+
+# Auto install peer dependencies
+auto = "auto"
+
+[install.cache]
+# Cache directory
+dir = "~/.bun/install/cache"
+
+[run]
+# Use bun runtime for scripts
+bun = true

@@ -1,0 +1,5 @@
+{
+  "name": "SIMRS Hospital System",
+  "description": "A modern hospital management dashboard (SIMRS) for inpatient admission and patient tracking, featuring form validation, search, sorting, and responsive design.",
+  "requestFramePermissions": []
+}
